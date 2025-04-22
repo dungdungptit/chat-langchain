@@ -153,3 +153,7 @@ node_modules/
 !.yarn/versions
 
 notebooks
+
+backend/RAG_w_functionsCalling/.env
+backend/data_137/
+backend/DataFTU/
